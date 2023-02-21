@@ -1,0 +1,23 @@
+{
+  "name": "test-node_js",
+  "version": "1.0.0",
+  "description": "test Node_Js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lupushor/test-node_js.git"
+  },
+  "author": "Lupushor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lupushor/test-node_js/issues"
+  },
+  "homepage": "https://github.com/Lupushor/test-node_js#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
